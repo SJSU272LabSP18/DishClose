@@ -3,6 +3,10 @@
 Student Names: Rohan Acharya, Vajid Kagdi, Sravya Somisetty, Heli Dipakkumar Desai 
 
 Team Name: Project Team 9 – Codesquad  
+### Comment: 
+#1 is a good problem to solve, but  needs a lot of data and labeled data for drone to find  anomalies. Make sure you  can find data to train neural network model. Tensorflow does a good job  on image detection.
+I approve this ... pls remove all your other ideas from README
+
 
 Project Title1: Railway track fault detection using unmanned aerial vehicle
 
