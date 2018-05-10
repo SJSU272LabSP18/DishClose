@@ -51,7 +51,7 @@ world and will constantly get better at suggestions when users upload their own 
 	</tr>
 	    <tr>
 		<td>Image Recognisation Service</td>
-		<td>Microsoft Custom Vision</td>
+		<td>Microsoft Custom Vision (https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/)</td>
 	</tr>
 		    <tr>
 		<td>Recipe Fetch API</td>
