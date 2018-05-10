@@ -49,6 +49,20 @@ world and will constantly get better at suggestions when users upload their own 
 		<td>Deployment</td>
 		<td>Node Services deployed on Amazon AWS</td>
 	</tr>
+	    <tr>
+		<td>Image Recognisation Service</td>
+		<td>Microsoft Custom Vision (https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/)</td>
+	</tr>
+		    <tr>
+		<td>Recipe Fetch API</td>
+		<td>Food2Fork (http://food2fork.com/about/api)</td>
+	</tr>
+	    <tr>
+		<td>Recipe Crawl API</td>
+		<td>Mshape (https://market.mashape.com/spoonacular/recipe-food-nutrition#extract-recipe-from-website)</td>
+	</tr>
+
+
 </tbody>
 </table>
 
