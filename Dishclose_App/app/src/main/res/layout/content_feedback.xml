@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ShowIngredientRecipe">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical" >
+
+        <android.support.design.widget.AppBarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/AppTheme.AppBarOverlay">
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:background="?attr/colorPrimary"
+                app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+        </android.support.design.widget.AppBarLayout>
+
+
+        <TextView
+            android:id="@+id/feedbackTitle"
+            style="?android:attr/listSeparatorTextViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#018E42"
+            android:text="Complete Feedback"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:textSize="24sp" />
+
+
+        <TextView
+            style="?android:attr/listSeparatorTextViewStyle"
+            android:layout_marginTop="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFA500"
+            android:text="Dish Prediction"
+            android:textSize="24sp" />
+
+        <Spinner
+            android:layout_marginBottom="30dp"
+            android:id="@+id/SpinnerFeedbackType1"
+            android:layout_height="wrap_content"
+            android:prompt="@string/feedbacktype"
+            android:layout_width="fill_parent"
+            android:entries="@array/feedbacktypelist">
+        </Spinner>
+
+        <TextView
+            style="?android:attr/listSeparatorTextViewStyle"
+            android:layout_marginTop="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFA500"
+            android:text="Ingredients Suggestion"
+            android:textSize="24sp" />
+
+        <Spinner
+            android:id="@+id/SpinnerFeedbackType2"
+            android:layout_marginBottom="30dp"
+            android:layout_height="wrap_content"
+            android:prompt="@string/feedbacktype"
+            android:layout_width="fill_parent"
+            android:entries="@array/feedbacktypelist">
+        </Spinner>
+
+
+        <TextView
+            style="?android:attr/listSeparatorTextViewStyle"
+            android:layout_marginTop="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFA500"
+            android:text="Recipe Suggestion"
+            android:textSize="24sp" />
+
+        <Spinner
+            android:id="@+id/SpinnerFeedbackType3"
+            android:layout_height="wrap_content"
+            android:prompt="@string/feedbacktype"
+            android:layout_width="fill_parent"
+            android:entries="@array/feedbacktypelist">
+        </Spinner>
+
+        <EditText
+            android:id="@+id/EditTextFeedbackBody"
+            android:layout_height="wrap_content"
+            android:hint="@string/feedbackbody"
+            android:inputType="textMultiLine"
+            android:lines="5"
+            android:layout_width="fill_parent">
+        </EditText>
+
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="bottom">
+
+        <Button
+            android:id="@+id/submit"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Submit Feedback"
+            />
+
+    </RelativeLayout>
+
+</android.support.design.widget.CoordinatorLayout>

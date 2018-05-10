@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DishClose</string>
+    <string name="activity_name_classification">Classify</string>
+    <string name="camera_error">This device doesn't support Camera2 API.</string>
+    <string name="Take_Picture"> Take a picture</string>
+    <string name="History">History</string>
+    <string name="Settings">Settings</string>
+    <string name="title_activity_show_ingredient_recipe">DishClose</string>
+    <string name="large_text">
+
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_history">DishClose : History</string>
+    <string name="title_activity_feedback">DishClose : Feedback</string>
+    <string name="feedbacktype1">Yes</string>
+    <string name="feedbacktype2">No</string>
+    <string name="feedbacktype">Satisfied</string>
+    <string name="feedbackbody">Tell Us More....</string>
+
+</resources>
