@@ -70,7 +70,7 @@ world and will constantly get better at suggestions when users upload their own 
 </table>
 
 
-## Architecture diagram of BLockchain network used
+## Architecture Diagram
 
 ![alt text](img.jpg "Architecture Diagram")
 
@@ -81,3 +81,6 @@ world and will constantly get better at suggestions when users upload their own 
 * Food enthusiasts wanting to sharpen their culinary skills
 * Health conscious tourists who love to binge.
 * Blessing for Masters students!
+
+
+## Android User Interfaces
