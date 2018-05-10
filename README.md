@@ -1,10 +1,9 @@
-# Project-Team-9
+# Project-Team-9 : – Codesquad  
+* Rohan Acharya
+* Vajid Kagdi
+* Sravya Somisetty
+* Heli Dipakkumar Desai 
 
-Student Names: Rohan Acharya, Vajid Kagdi, Sravya Somisetty, Heli Dipakkumar Desai 
-
-Team Name: Project Team 9 – Codesquad  
-
-## Idea
 
 ### Project Title : DishClose 
 
@@ -70,3 +69,15 @@ world and will constantly get better at suggestions when users upload their own 
 </tbody>
 </table>
 
+
+## Architecture diagram of BLockchain network used
+
+![alt text](img.jpg "Architecture Diagram")
+
+## Problems Addressed
+
+
+## Who are the users?
+* Food enthusiasts wanting to sharpen their culinary skills
+* Health conscious tourists who love to binge.
+* Blessing for Masters students!
