@@ -34,14 +34,11 @@ world and will constantly get better at suggestions when users upload their own 
 		<td>Android Application using Android Studio</td>
 	</tr>
 	<tr>
-		<td>API Unit Testing</td>
-		<td>Mocha, Postman</td>
+		<td>Back-End</td>
+		<td>Node JS REST APIs</td>
 	</tr>
-	<tr>
-		<td>Performance Testing</td>
-		<td>JMeter</td>
-	</tr>
-	<tr>
+
+<tr>
 		<td>Database</td>
 		<td>MongoDB Deployed on MLab</td>
 	</tr>
@@ -61,7 +58,14 @@ world and will constantly get better at suggestions when users upload their own 
 		<td>Recipe Crawl API</td>
 		<td>Mshape (https://market.mashape.com/spoonacular/recipe-food-nutrition#extract-recipe-from-website)</td>
 	</tr>
-
+<tr>
+		<td>API Unit Testing</td>
+		<td>Mocha, Postman</td>
+	</tr>
+	<tr>
+		<td>Performance Testing</td>
+		<td>JMeter</td>
+	</tr>
 
 </tbody>
 </table>
