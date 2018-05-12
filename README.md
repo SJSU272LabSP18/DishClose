@@ -74,6 +74,16 @@ world and will constantly get better at suggestions when users upload their own 
 
 ![alt text](architecture.png "Architecture Diagram")
 
+
+## Model Trained For  
+* Apple Pie
+* Bruschetta
+* Chicken Curry
+* Club Sandwich
+* Falafel
+* Fried Rice
+* Samosa
+
 ## Problems Addressed
 
 
