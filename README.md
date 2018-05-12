@@ -72,7 +72,7 @@ world and will constantly get better at suggestions when users upload their own 
 
 ## Architecture Diagram
 
-![alt text](architecture.jpg "Architecture Diagram")
+![alt text](architecture.png "Architecture Diagram")
 
 ## Problems Addressed
 
