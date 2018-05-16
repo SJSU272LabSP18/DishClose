@@ -86,13 +86,8 @@ We have created a smart android application in which a user can scan the image o
 * Fried Rice
 * Samosa
 
-## Problems Addressed
-
 
 ## Who are the users?
 * Food enthusiasts wanting to sharpen their culinary skills
 * Health conscious tourists who love to binge.
 * Blessing for Masters students!
-
-
-## Android User Interfaces
